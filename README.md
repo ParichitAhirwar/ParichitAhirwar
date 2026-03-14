@@ -11,7 +11,12 @@ Hi 👋, I'm Parichit Ahirwar </br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ParichitAhirwar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ##  Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/parichit-ahirwar-149975316/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parichitahirwar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/parichit-ahirwar-149975316/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parichitahirwar@gmail.com) 
+
+## Tools and Platforms:
+Git · GitHub · VS Code · Jupyter Notebook</br>
+Power BI · Tableau</br>
+HackerRank · LeetCode · CodeChef · Codeforces
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
